@@ -1,4 +1,4 @@
-# ESP32-IoT-Sensor-Hub
+# Sentira Hub | ESP32-C3 Multi-Sensor IoT Hub & Data Logger
 hardware system based on ESP32-C3 (RISC-V architecture) on a 4-layer PCB for noise immunity. 
 
 The project includes sensors (environment, light, and sound), smart power and charging management (MCP73871), and a user interface.
