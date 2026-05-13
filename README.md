@@ -1,4 +1,4 @@
-# ESP32-IoT-Sensor-Hub-Manufacturing-Ready-
+# ESP32-IoT-Sensor-Hub
 hardware system based on ESP32-C3 (RISC-V architecture) on a 4-layer PCB for noise immunity. 
 
 The project includes sensors (environment, light, and sound), smart power and charging management (MCP73871), and a user interface.
